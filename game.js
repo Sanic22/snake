@@ -1,5 +1,5 @@
 let tog = 1;
-let rollingSound = new Audio('rpg-dice-rolling-95182.mp3');
+let rollingSound = new Audio('SnakesAndLadder_rpg-dice-rolling-95182.mp3');
 let winSound = new Audio('winharpsichord-39642.mp3');
 
 let p1sum = 0;
